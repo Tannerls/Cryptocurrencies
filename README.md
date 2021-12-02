@@ -11,7 +11,7 @@ preprocessing the database,
  * visualizing classification results with 2D and 3D scatter plots.
 
 ### Resources
-Data Source: crypto_data.csv, CryptoCompare
+Data Source: crypto_data.csv
 
 ### Results
 Following the preprocessing and cleaning phase there are a total of 532 tradable cryptocurrencies.
